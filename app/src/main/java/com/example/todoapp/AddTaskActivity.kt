@@ -55,6 +55,7 @@ class AddTaskActivity : AppCompatActivity() {
 
                 delay(1000)
 
+
                 finish()
             }
         }
